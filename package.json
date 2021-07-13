@@ -59,7 +59,7 @@
     "@types/numeral": "^2.0.1",
     "@types/twemoji": "^12.1.2",
     "@typescript-eslint/eslint-plugin": "^4.28.2",
-    "@typescript-eslint/parser": "^4.28.2",
+    "@typescript-eslint/parser": "^4.28.3",
     "@vercel/node": "^1.11.1",
     "autoprefixer": "^10.3.0",
     "babel-loader": "^8.2.2",
